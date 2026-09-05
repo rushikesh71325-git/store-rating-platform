@@ -31,3 +31,9 @@ Thumbs.db
 
 # Docker volumes
 postgres_data/
+
+# Documentation & Requirements
+*.pdf
+Store_Rating_Platform_PRD.md
+Store_Rating_Platform_TRD.md
+
